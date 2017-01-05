@@ -1,2 +1,2 @@
 # ebay-kleinanzeigen-ad-pictures
-Get all eBay Kleinanzeigen pictures from a specific ad
+Get all pictures of an eBay Kleinanzeigen ad
